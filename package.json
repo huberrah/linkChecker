@@ -1,0 +1,22 @@
+{
+  "name": "huberrob",
+  "version": "1.0.0",
+  "description": "My JSD4 project homework and labs",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "twitter": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://jsd4-huberrob.herokuapp.com/Homework/HW6/movie-search/movie-search.html"
+  },
+  "author": "Robh",
+  "license": "ISC"
+}
